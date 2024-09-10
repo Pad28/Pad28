@@ -6,7 +6,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Sergio+Díaz!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Miguel+Padilla!;" />
 
 <h2>📖 | About me</h2> 
 I am a Computer Systems Engineer with experience in JavaScript, TypeScript, Node.js, Angular, React, and React Native. I am passionate about solving problems and continuously improving through self-learning. I stand out for effectively collaborating in multidisciplinary teams and delivering high-quality results within tight deadlines.
