@@ -35,7 +35,7 @@ I am a Computer Systems Engineer with experience in JavaScript, TypeScript, Node
 <h2>⭐ | Github Stats </h2>
 
 <div align="center">
-<a href="https://github.com/codediaz">
+<a href="https://github.com/pad28">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pad28&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pad28&layout=compact&langs_count=7&theme=default"/></a>
 </div>
