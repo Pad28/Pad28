@@ -17,7 +17,7 @@ I am a Computer Systems Engineer with experience in JavaScript, TypeScript, Node
 <h2>🎓 Education</h2>
 <p><strong>Bachelor’s Degree in Computer Systems Engineering</strong></p>
 <p>📍 <em>Universidad Politécnica de Tulancingo (UPT)</em></p>
-<p>📅 <em>2018 - 2022</em></p>
+<p>📅 <em>2020 - 2024</em></p>
 <p>
   During my time at UPT, I developed strong technical and problem-solving skills, which have been essential to my professional growth. My academic experience also allowed me to participate in various projects related to software development, automation, and IoT.
 </p>
