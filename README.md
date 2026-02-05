@@ -1,72 +1,96 @@
 <div align="right">
-<a style="text-decoration: none" target="_blank" href="https://www.linkedin.com/in/miguel-angel-padilla-pérez-441a02295" >
-<img width="70"src="https://img.shields.io/badge/-Connect-blue?style=flat&logo=Linkedin&logoColor=white">
-</a>
+  <a href="https://www.linkedin.com/in/miguel-angel-padilla-pérez-441a02295" target="_blank">
+    <img src="https://img.shields.io/badge/-Connect-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn">
+  </a>
 </div>
 
-<br>
+<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40&pause=1000&color=58A6FF&vCenter=true&width=500&height=70&lines=Hi+There!+👋;I'm+Miguel+Padilla;Full-Stack+Developer" alt="Typing SVG" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Roboto&weight=900&size=40=true&vCenter=true&width=500&height=70&duration=4000&color=B3B3B3&lines=Hi+There!+👋;+I'm+Miguel+Padilla!;" />
+## 👨‍💻 About Me
 
-<h2>📖 | About me</h2> 
-I am a Computer Systems Engineer with experience in JavaScript, TypeScript, Node.js, Angular, React, and React Native. I am passionate about solving problems and continuously improving through self-learning. I stand out for effectively collaborating in multidisciplinary teams and delivering high-quality results within tight deadlines.
+Full-Stack Developer with **3+ years of experience** specializing in modern web technologies. Passionate about building scalable applications with clean architecture and best practices.
 
-<br>
-<br>
+🔭 Currently working as **Product Owner & Tech Lead** at [Minerva Law](https://github.com/pad28) - A comprehensive legal platform  
+💼 Seeking remote opportunities in full-stack development  
+🌱 Deep diving into **PostgreSQL optimization**, **AWS services**, and **microservices architecture**  
+⚡ Fun fact: I balance code with powerlifting!
 
-<h2>🎓 Education</h2>
-<p><strong>Bachelor’s Degree in Computer Systems Engineering</strong></p>
-<p>📍 <em>Universidad Politécnica de Tulancingo (UPT)</em></p>
-<p>📅 <em>2020 - 2024</em></p>
-<p>
-  During my time at UPT, I developed strong technical and problem-solving skills, which have been essential to my professional growth. My academic experience also allowed me to participate in various projects related to software development, automation, and IoT.
-</p>
+---
 
-<br>
+## 🎓 Education
 
+**Bachelor's Degree in Computer Systems Engineering**  
+📍 Universidad Politécnica de Tulancingo (UPT)  
+📅 2020 - 2024
 
-<h2>🔥| My contribution streak</h2>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pad28#version3"/>
-  </a>
-</p>
+Developed strong foundations in software architecture, algorithms, and IoT solutions through hands-on projects and collaborative development.
 
-<h2>⭐ | Github Stats </h2>
+---
+
+## 🚀 Tech Stack
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Material UI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Database & ORM
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+
+### DevOps & Tools
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-<a href="https://github.com/pad28">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pad28&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pad28&layout=compact&langs_count=7&theme=default"/></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pad28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pad28&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
 </div>
 
-<h2>🛠️ | Languages, Frameworks, and Tools </h2>
-<table>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,opencv,java,spring"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,mui,bootstrap,html,css,js,ts,angular"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=docker,aws,linux,ubuntu"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Database:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=mysql,postgresql,graphql,mongodb"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">ORM's:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=prisma,sequelize,hibernate"/></td>
-    </tr>
-    <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=github,gitlab"/></td>
-    </tr>
-</table>
-<br>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pad28&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
+</div>
 
-------
+---
+
+## 💼 Featured Projects
+
+### [Minerva Law](https://github.com/pad28)
+Comprehensive legal platform with multi-role RBAC, document management, and client tracking  
+**Tech:** NestJS, PostgreSQL, React, AWS S3, TypeORM
+
+---
+
+## 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-padilla-pérez-441a02295)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
+
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pad28&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+</div>
