@@ -65,8 +65,13 @@ Developed strong foundations in software architecture, algorithms, and IoT solut
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pad28&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pad28&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top Languages"/>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pad28&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pad28&layout=compact&langs_count=8&theme=vue-dark)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=pad28&theme=vue-dark)
+
 </div>
 
 <div align="center">
@@ -86,7 +91,7 @@ Comprehensive legal platform with multi-role RBAC, document management, and clie
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miguel-angel-padilla-pérez-441a02295)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:migpap281003@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://tu-portfolio.com)
 
 ---
