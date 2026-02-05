@@ -65,16 +65,6 @@ Developed strong foundations in software architecture, algorithms, and IoT solut
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pad28&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pad28&layout=compact&langs_count=8&theme=vue-dark)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=pad28&theme=vue-dark)
-
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pad28&theme=github-dark-blue&hide_border=true" alt="GitHub Streak"/>
 </div>
 
