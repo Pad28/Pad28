@@ -10,7 +10,7 @@
 
 Full-Stack Developer with **3+ years of experience** specializing in modern web technologies. Passionate about building scalable applications with clean architecture and best practices.
 
-🔭 Currently working as **Product Owner & Tech Lead** at [Minerva Law](https://github.com/pad28) - A comprehensive legal platform  
+🔭 Currently working as **Product Owner & Tech Lead** at [Miderva Law](https://github.com/pad28) - A comprehensive legal platform  
 💼 Seeking remote opportunities in full-stack development  
 🌱 Deep diving into **PostgreSQL optimization**, **AWS services**, and **microservices architecture**  
 ⚡ Fun fact: I balance code with powerlifting!
