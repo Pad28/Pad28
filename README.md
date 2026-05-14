@@ -72,7 +72,7 @@ Developed strong foundations in software architecture, algorithms, and IoT solut
 
 ## 💼 Featured Projects
 
-### [Minerva Law](https://github.com/pad28)
+### [Miderva Law](https://github.com/pad28)
 Comprehensive legal platform with multi-role RBAC, document management, and client tracking  
 **Tech:** NestJS, PostgreSQL, React, AWS S3, TypeORM
 
